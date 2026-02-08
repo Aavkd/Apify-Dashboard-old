@@ -4,13 +4,13 @@ This roadmap outlines the phased execution plan to build the Actor Dashboard usi
 
 ## Phase 1: Project Initialization & Setup
 **Goal:** Establish the foundational codebase and development environment.
-- [ ] **Initialize Next.js Project:**
+- [x] **Initialize Next.js Project:**
     - Create a new Next.js app (`npx create-next-app`).
     - Configure TypeScript (strict mode).
     - Clean up default boilerplate code.
-- [ ] **Directory Structure:**
+- [x] **Directory Structure:**
     - Set up `components/`, `styles/`, `data/`, `types/`, `hooks/`.
-- [ ] **Global Styling Setup:**
+- [x] **Global Styling Setup:**
     - Create `styles/globals.css` with CSS variables for colors, spacing, and glassmorphism tokens.
     - Import Google Fonts (e.g., Inter, Roboto, or a monospaced font for a tech feel).
 
