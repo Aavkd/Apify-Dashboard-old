@@ -16,16 +16,16 @@ This roadmap outlines the phased execution plan to build the Actor Dashboard usi
 
 ## Phase 2: Design System & Core UI
 **Goal:** Implement the visual language (Glassmorphism) and basic layout.
-- [ ] **Design Tokens:** Define CSS variables for:
+- [x] **Design Tokens:** Define CSS variables for:
     - Glass background (blur, translucency).
     - Borders (subtle white/grey).
     - Shadows (soft, ambient).
     - Colors (primary, success/error for status).
-- [ ] **Base Components:**
+- [x] **Base Components:**
     - `Layout`: Main wrapper with the abstract background.
     - `GlassCard`: A reusable container component with the glass effect.
     - `Button`: Styled buttons with hover states.
-- [ ] **Responsive Grid:** Create the main dashboard layout to hold actor cards.
+- [x] **Responsive Grid:** Create the main dashboard layout to hold actor cards.
 
 ## Phase 3: Core Functionality & Data Integration
 **Goal:** Display the actors and their statuses dynamically.
